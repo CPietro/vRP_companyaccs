@@ -1,7 +1,7 @@
 # vRP Company Bank Accounts
 
 ## Description
-  Simple script to provide bank accounts to [vRP_business]().\
+  Simple script to provide bank accounts to [vRP_business](https://github.com/CPietro/vRP_business).\
   It's possible to get paid by people, deposit money in the company's bank account, transfer it from the personal account to the business' one and the other way around. You'll also gain interest from the money in the account. A PIN that only the owner can change is there to prevent employees to steal. For public departments bosses there is a special blip in the map to gain access to their department bank account, this may be useful for the head of the police department. It'll have to be used only once.
 
 ## Pictures
@@ -16,8 +16,8 @@
 
 ## Dependencies
  #### Mandatory
- * [vRP_business]() - Companies that can be bought by players;
- * [vRP_cards]() - Cards for players to buy stuff with them;
+ * [vRP_business](https://github.com/CPietro/vRP_business) - Companies that can be bought by players;
+ * [vRP_cards](https://github.com/CPietro/vRP_cards) - Cards for players to buy stuff with them;
  * [Changes](#changes-to-vrp-mandatory) - Mandatory modifications to vRP;
 
 ## Installation
