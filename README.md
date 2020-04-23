@@ -22,7 +22,7 @@
 
 ## Installation
   1. [IMPORTANT!] Install the dependencies first;
-  2. Move the [vrp_companyaccs](#vrp-company-bank-accounts) folder to your ```resources``` directory;
+  2. Move the [vrp_companyaccs](#vrp-company-bank-accounts) folder to your ```resources``` directory (the folder name must be all lowercase characters);
   3. Add "```start vrp_companyaccs```" to your server.cfg file;
   4. Make any changes you like to the files in the cfg folder;
   5. Enjoy!
